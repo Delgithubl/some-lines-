@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.highlight{
+     height: 60px;
+    font-size: larger;
+    letter-spacing: 5px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paragraph{
+   margin: 10px 70px 70px 70px;
+   letter-spacing: 2px;
+   font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contaner{
+     background-color: #e5e5fd;
+     min-height: 100vh;
+     border: 10px solid black;
+     
+}
+.header{
+    display: flex;
+   
+}
+
+.image{
+    height: 300px;
+    width: 250px;
+    border-radius: 40%;  
+    margin-left: 60px;
+    margin-top: 30px; 
+    background-image: url(real.jpg);
+    background-size: cover;
+}
+.section{
+    height: 100px;
+    width: auto;
+    margin-top: 200px;
+    margin-left: 70px;
+} 
+    
+.section p {
+    font-size: large;
+    text-align: end;
+}
+
